@@ -15,8 +15,8 @@ npm install
 npm run dev
 ```
 
-Control panel: `http://localhost:5173/smash-or-pass/`
-Display view: `http://localhost:5173/smash-or-pass/?view=display`
+Control panel: `http://localhost:5173/SmashOrPass/`
+Display view: `http://localhost:5173/SmashOrPass/?view=display`
 
 ## Deploy to GitHub Pages
 

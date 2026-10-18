@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react'
 
 // For GitHub Pages project sites the app lives at /<repo-name>/.
 // Change REPO_NAME to match your repository (or set VITE_BASE at build time).
-const REPO_NAME = 'smash-or-pass'
+const REPO_NAME = 'SmashOrPass'
 
 /** Exposes the file names in public/characters as `virtual:character-images`, so the roster can skip entries with no image. */
 function characterImages(): Plugin {
