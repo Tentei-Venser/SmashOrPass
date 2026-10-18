@@ -1,0 +1,312 @@
+{
+  "byleth-female": {
+    "intro": "Our next contestant is a mercenary turned schoolteacher who rarely smiles, rarely blinks, and has a goddess living rent-free in her head. She'll grade your homework, then lead you into battle before lunch. Detention has never looked so tempting.",
+    "smash": "Byleth marches into the Smash bracket with a sword, a whip-blade, and a perfect attendance record. Class is in session, and the professor is ready to teach these fools a lesson.",
+    "pass": "Byleth lands in the Pass bracket, proving even a goddess-blessed professor can fail a pop quiz. She's taking it with her usual expression: none whatsoever."
+  },
+  "kara-zor-el-supergirl": {
+    "intro": "Coming in from out of town, way out of town, is a farm-raised sweetheart with a cape, super strength, and a laugh that could crack drywall. She's sweet, she's goofy, and she can bench-press your car. Please don't mention her cousin.",
+    "smash": "Kara Zor-El flies into the Smash bracket faster than a speeding bullet. Truth, justice, and a very good time.",
+    "pass": "Kara crash-lands in the Pass bracket. Turns out her real weakness was a verdict all along."
+  },
+  "lt-commander-data": {
+    "intro": "Our next bachelor is an officer and a gentleman, emphasis on officer. He's fully functional, programmed in multiple techniques, and will tell you exactly how many seconds you spent staring. Feelings sold separately.",
+    "smash": "Lt. Commander Data enters the Smash bracket. Probability of victory: calculating. Probability of being fully functional: one hundred percent.",
+    "pass": "Data has been assigned to the Pass bracket. He would be offended, but his emotion chip is in a drawer somewhere."
+  },
+  "toriko": {
+    "intro": "Tonight's contestant is a package deal: four enormous gourmet hunters who eat monsters for breakfast and look fabulous doing it. One is poisonous, one is vain, one is pure rage, and one just wants a snack. Pick one, pick all, but bring an appetite.",
+    "smash": "The Four Heavenly Kings stomp into the Smash bracket, arms crossed, coats flowing. It's a full-course meal, and every course is beefcake.",
+    "pass": "The Four Heavenly Kings land in the Pass bracket. Four hunks, one verdict, zero leftovers."
+  },
+  "spy": {
+    "intro": "Please welcome a gentleman of mystery: tailored suit, impeccable manners, a cigarette, and a mask he refuses to take off. He's been your mother's date, and he could be standing behind you right now. Don't turn around.",
+    "smash": "The Spy slips into the Smash bracket. He was never going to lose; he was simply waiting for the right moment to stab someone in the back.",
+    "pass": "The Spy is in the Pass bracket. Or is he? Check the room. That might be someone else wearing his face."
+  },
+  "lucy": {
+    "intro": "Next up: a netrunner with pastel hair, a mysterious past, and a dream of seeing the moon. She'll hack your mainframe, steal your heart, and vanish before you notice your wallet's gone too.",
+    "smash": "Lucy jacks into the Smash bracket. She's going to the moon, and she's taking this whole tournament with her.",
+    "pass": "Lucy logs into the Pass bracket. Ouch. That is not the kind of flatline she was hoping for."
+  },
+  "the-emperor-of-mankind": {
+    "intro": "This contestant is tens of thousands of years old and doesn't look a day over a few thousand. He's golden, he's glowing, he's humming psychically inside your skull, and he's been sitting in the same chair for a very long time. He is, technically, a god. Technically.",
+    "smash": "The Emperor of Mankind ascends into the Smash bracket. Glory to the Golden Throne, and to whoever gets to sit on it next.",
+    "pass": "The Emperor of Mankind is in the Pass bracket. Heresy! Somebody fetch a Commissar."
+  },
+  "vex": {
+    "intro": "Our next guest is a gothic witch who talks to her own shadow, and sometimes it talks back. She's moody, she's magical, and she will absolutely loot your corpse. Red flag? More like red and purple.",
+    "smash": "Vex slinks into the Smash bracket with her shadows in tow. Witchy women do it better.",
+    "pass": "Vex drops into the Pass bracket. Her shadow saw this coming and said nothing."
+  },
+  "tengen-uzui": {
+    "intro": "Make some noise for this contestant, because he certainly will. He's six and a half feet of jewelry, face paint, and swagger, carries two giant blades on a chain, and already has three wives. Everything about him is flashy. Everything.",
+    "smash": "Tengen Uzui bursts into the Smash bracket in the flashiest way imaginable. This is the most flamboyant thing that has ever happened, and he'd like you to know that.",
+    "pass": "Tengen Uzui lands in the Pass bracket. Not flashy. Not flashy at all."
+  },
+  "astrid-httyd-3": {
+    "intro": "This contestant is a Viking warrior who throws axes for fun and rides something with wings. She's blonde, she's braided, she's ferociously competitive, and she shows affection by punching you in the shoulder. Do not call it cute.",
+    "smash": "Astrid storms the Smash bracket axe-first. She's been training for this her whole life.",
+    "pass": "Astrid ends up in the Pass bracket. Somebody tell her gently, before she hears it from someone else and starts throwing things."
+  },
+  "harley-quinn": {
+    "intro": "Next, a former doctor who left her practice to pursue a career in chaos. She's got pigtails, a baseball bat, and a laugh you'll hear in your sleep. She's bad news, and she's the most fun bad news you'll ever have.",
+    "smash": "Harley Quinn cartwheels into the Smash bracket. Hold onto your hats, puddin', it's gonna be a wild ride.",
+    "pass": "Harley Quinn's in the Pass bracket. She's not mad. She's just going to need a bigger mallet."
+  },
+  "revolte": {
+    "intro": "Our next contestant is a towering general with four arms and four swords, perfect for handling a lot at once. He doesn't talk much. He doesn't need to.",
+    "smash": "General Revolte marches into the Smash bracket, all four blades drawn. Four arms means four times the hugs.",
+    "pass": "Revolte is in the Pass bracket. Four swords drawn, and nobody left to fight."
+  },
+  "jessica-rabbit": {
+    "intro": "Please welcome a nightclub singer with legendary curves and a voice like velvet. She'll tell you she's not bad, she's just drawn that way. Fair warning: her husband's a real clown.",
+    "smash": "Jessica Rabbit sashays into the Smash bracket. She's not bad, she's just drawn that way, and she is drawn very well.",
+    "pass": "Jessica Rabbit, in the Pass bracket? Somebody check the ink. This has to be a misprint."
+  },
+  "cortana": {
+    "intro": "This contestant is brilliant, sarcastic, glowing blue, and lives inside your armor. She is literally all in your head. She'll have your back in any fight, and she'll judge your decisions out loud while she does it.",
+    "smash": "Cortana beams into the Smash bracket. She's run the numbers, Chief, and she likes her odds.",
+    "pass": "Cortana is in the Pass bracket. She would like to file a bug report."
+  },
+  "jill-stingray": {
+    "intro": "Next up: a bartender with a cool head and an even cooler deadpan. She'll mix exactly the drink you need, listen to all your problems, then pretend she didn't hear a thing. Time to mix drinks and change lives.",
+    "smash": "Jill Stingray slides into the Smash bracket. One perfect drink, served with a smirk.",
+    "pass": "Jill Stingray ends up in the Pass bracket. She'll just pour herself something strong."
+  },
+  "korsica": {
+    "intro": "Our next contestant is a corporate security chief with a spiky red ponytail and a staff that hits like a freight train. She's strict, she's by the book, and she is always on schedule. Don't be late.",
+    "smash": "Korsica spins into the Smash bracket, perfectly on beat. Discipline has never looked this good.",
+    "pass": "Korsica is in the Pass bracket. That is not in compliance, and she will be filing a complaint."
+  },
+  "ganondorf": {
+    "intro": "Please welcome a desert king with a red beard, a big sword, and even bigger ambitions. He's tall, dark, and evil, and he keeps coming back no matter how many times he gets sealed away. Persistent, isn't he?",
+    "smash": "Ganondorf storms the Smash bracket. The King of Evil wanted power, and now he has your vote.",
+    "pass": "Ganondorf's in the Pass bracket. Sealed away once again. Don't worry, he'll be back."
+  },
+  "samus-aran": {
+    "intro": "This contestant is a bounty hunter in a big orange suit who never says a word. Rumor has it there's someone very worth meeting under all that armor. Is she worth the wait? Only one way to find out.",
+    "smash": "Samus Aran blasts into the Smash bracket. The armor is coming off. Hopefully.",
+    "pass": "Samus is in the Pass bracket. Back to the ship without a word, as usual."
+  },
+  "ghazghkull-mag-uruk-thraka": {
+    "intro": "Our next contestant is a mountain of green muscle and scrap metal wearing a skull as a hat. He's loud, he's violent, he believes he's on a holy mission, and his metal jaw makes kissing a real adventure. WAAAGH!",
+    "smash": "Ghazghkull Mag Uruk Thraka smashes into the Smash bracket. WAAAGH! This is what he was made for.",
+    "pass": "Ghazghkull is in the Pass bracket. He's taking it personally. Everyone take cover."
+  },
+  "johnny-silverhand": {
+    "intro": "Next up: a rocker with an attitude problem and a chrome arm. He's dead, technically, but that has never stopped him. He'll write a song about you, burn down your company, and live rent-free in your head. Literally.",
+    "smash": "Johnny Silverhand riffs into the Smash bracket. Wake up, samurai, we've got a city to burn.",
+    "pass": "Johnny Silverhand's in the Pass bracket. He's going to write a very angry song about this."
+  },
+  "adam-smasher": {
+    "intro": "This contestant is less man and more machine. Mostly machine. Basically all machine. He's huge, he's chrome, he's the scariest thing in the city, and he has roughly one human organ left. Which one? Your guess.",
+    "smash": "Adam Smasher crushes his way into the Smash bracket. It was right there in the name.",
+    "pass": "Adam Smasher, in the Pass bracket? Ironic. Somebody break it to him from a very safe distance."
+  },
+  "imperial-captain-skyrim-intro": {
+    "intro": "Our next contestant is a no-nonsense officer with crisp armor and a strict schedule. She doesn't care about your name, your story, or your excuses. Next prisoner! She's got a block with your name on it.",
+    "smash": "The Imperial Captain marches into the Smash bracket. Finally, someone who knows how to give orders.",
+    "pass": "The Imperial Captain is in the Pass bracket. To the block with her."
+  },
+  "perfect-cell": {
+    "intro": "This contestant has the best features of everyone he's ever met, and he means that literally. He's green, he's spotted, he's smug, and he's hosting his own tournament. He's flawless. Just ask him.",
+    "smash": "Perfect Cell strides into the Smash bracket. Perfection, at long last, recognized.",
+    "pass": "Perfect Cell's in the Pass bracket. Perfect? Hm. Apparently not."
+  },
+  "ferdinand-von-aegir-post-timeskip": {
+    "intro": "Next up: a dashing nobleman with flowing hair and an unbelievable devotion to tea. He's honorable, he's earnest, and he will never, ever let you forget whose son he is. He's all grown up, and he wants you to notice.",
+    "smash": "Ferdinand von Aegir rides into the Smash bracket. As expected of a von Aegir!",
+    "pass": "Ferdinand's in the Pass bracket. A von Aegir does not lose! He simply needs some tea."
+  },
+  "waluigi": {
+    "intro": "This contestant is tall, lanky, purple, and permanently misunderstood. He's got a pointy mustache, a bad attitude, and nobody ever invites him to anything. He's the underdog you didn't know you were rooting for.",
+    "smash": "Waluigi bursts into the Smash bracket. WAH! His time has finally come.",
+    "pass": "Waluigi lands in the Pass bracket. As expected. Wah."
+  },
+  "skeletor": {
+    "intro": "Our next contestant is a dramatic villain with a ram-headed staff, a purple hood, and absolutely no face. He's got muscles, a castle shaped like a skull, and a vocabulary full of insults. Myah-ah-ah!",
+    "smash": "Skeletor cackles his way into the Smash bracket. The power is his!",
+    "pass": "Skeletor's in the Pass bracket. He'll get you for this, He-Man!"
+  },
+  "capra-demon": {
+    "intro": "This contestant is a goat-skulled brute with two machetes and two dogs. He's eager to meet you the second you walk through the door. Literally. He does not believe in personal space.",
+    "smash": "The Capra Demon charges into the Smash bracket, dogs and all. He doesn't wait, and he doesn't stop.",
+    "pass": "The Capra Demon is in the Pass bracket. Turns out he was easier to beat than he looked."
+  },
+  "new-jersey": {
+    "intro": "Next: a battleship who is somehow also a tall, glamorous woman with bunny ears. She's flashy, she's flirty, and she's ready to make a big splash. She's built for speed and dying to show off her big guns.",
+    "smash": "New Jersey sails into the Smash bracket. She's the battleship everyone wants in their fleet.",
+    "pass": "New Jersey's in the Pass bracket. She's been sunk. Somebody get her a lifeboat."
+  },
+  "jane-shepard": {
+    "intro": "This contestant is a starship captain with a knack for saving the galaxy and a habit of romancing her whole crew. She's fierce, she's tough, and her speeches will give you chills. She should go.",
+    "smash": "Commander Shepard storms the Smash bracket. She's our favorite contestant on the Citadel.",
+    "pass": "Commander Shepard is in the Pass bracket. Hold the line!"
+  },
+  "lady-shady": {
+    "intro": "Our next contestant needs no introduction, so I'm going to give her one anyway. She's the queen of this channel, the light of my life, and she's sitting right there pretending she isn't blushing. Chat, behave.",
+    "smash": "Lady Shady enters the Smash bracket. Obviously. I'd like to see anyone try to beat her.",
+    "pass": "Lady Shady... in the Pass bracket? I'm calling for a recount. This is rigged."
+  },
+  "ghislaine-dedoldia": {
+    "intro": "Our next contestant is a towering beastfolk swordswoman with a scar, an eyepatch, and very little in the way of clothing. She's fierce, she's fast, she's fiercely loyal, and she's very bad at math. Pet at your own risk.",
+    "smash": "Ghislaine Dedoldia bounds into the Smash bracket. The Sword King is ready to fight.",
+    "pass": "Ghislaine's in the Pass bracket. She'd count her losses, but that would involve math."
+  },
+  "elizabeth": {
+    "intro": "Next up: a young woman who spent her whole life locked in a tower and can now open holes in reality. She's curious, she's clever, and she'll toss you a coin exactly when you need it.",
+    "smash": "Elizabeth opens a tear straight into the Smash bracket. In some universe she always wins. This is that universe.",
+    "pass": "Elizabeth's in the Pass bracket. Somewhere out there, in another universe, she's smashing."
+  },
+  "yoko-littner-timeskip": {
+    "intro": "This contestant is a fiery redhead with a big gun and an even bigger attitude. She's all grown up and settled into a quieter life, but trust me, she can still make things explode.",
+    "smash": "Yoko Littner fires into the Smash bracket. Who the hell do you think she is?",
+    "pass": "Yoko's in the Pass bracket. She's not upset. She's reloading."
+  },
+  "joel": {
+    "intro": "Next up: a rugged man with a beard, a revolver, and a lot of trauma. He's not one for small talk, he's very good with a guitar, and he will do absolutely anything for the people he loves. Anything.",
+    "smash": "Joel enters the Smash bracket. He'll survive this, just like he survives everything.",
+    "pass": "Joel's in the Pass bracket. He'll tell you he's fine. He's not fine."
+  },
+  "golden-saint": {
+    "intro": "This contestant is a golden goddess in gilded armor who serves a mad god. She's tall, she's radiant, she's very proud, and she takes a very hands-on approach to discipline.",
+    "smash": "The Golden Saint glitters into the Smash bracket. Proud, radiant, and absolutely untouchable.",
+    "pass": "The Golden Saint is in the Pass bracket. She will be reporting this to her lord."
+  },
+  "piedmon": {
+    "intro": "Our next contestant is a clown with four swords, a cape, and a talent for turning people into keychains. He's theatrical, he's twisted, and he does magic tricks. Some of them are fatal.",
+    "smash": "Piedmon juggles his way into the Smash bracket. The show must go on.",
+    "pass": "Piedmon's in the Pass bracket. Turns out not everyone likes clowns."
+  },
+  "angewomon": {
+    "intro": "Next up: an angel with six wings, a helmet, and a holy bow. She's elegant, she's righteous, and she looks like she stepped right out of a stained-glass window. Love arrows, anyone?",
+    "smash": "Angewomon descends into the Smash bracket. Heaven's light shines upon her.",
+    "pass": "Angewomon's in the Pass bracket. She's going to need a few more wings to fly out of this one."
+  },
+  "dracula-animated-series": {
+    "intro": "This contestant is a tall, dark, brooding nobleman who wears a lot of black and lives in a very big castle. He's a widower who's been through a lot, and he has a habit of taking his grief out on everyone. At once.",
+    "smash": "Dracula rises into the Smash bracket. Tragic, gorgeous, and terrifying.",
+    "pass": "Dracula's in the Pass bracket. He is going to take this very poorly. Everyone run."
+  },
+  "nicholas-st-north": {
+    "intro": "This contestant is a big, burly man with a long white beard, a thick accent, and tattoos down both arms. He wields two swords and commands an army of yetis and elves. He's naughty and nice.",
+    "smash": "North barrels into the Smash bracket. He knows you've been very, very good.",
+    "pass": "North's in the Pass bracket. Coal for him this year."
+  },
+  "fafnir-100-ton-assault-mech": {
+    "intro": "Next up: one hundred tons of armor, bad attitude, and two enormous cannons. This contestant isn't a man, he's a machine, and he's coming for you at a steady walking pace. He's slow, but he's packing.",
+    "smash": "The Fafnir stomps into the Smash bracket. A hundred tons of pure firepower.",
+    "pass": "The Fafnir lumbers into the Pass bracket. Too slow to get away."
+  },
+  "falin-touden": {
+    "intro": "Our next contestant is a kind-hearted healer who loves monsters, bugs, and anything that crawls. She's gentle, she's sweet, and she might have a slight problem with turning into a giant chimera. Nobody's perfect.",
+    "smash": "Falin Touden flutters into the Smash bracket. Wings, claws, and a heart of gold.",
+    "pass": "Falin's in the Pass bracket. Her brother is already looking up recipes."
+  },
+  "riza-hawkeye": {
+    "intro": "This contestant is a sharpshooter with a steady hand, a cool head, and a commanding officer who can't function without her. She's loyal, she's lethal, and she has a very good dog.",
+    "smash": "Riza Hawkeye aims straight for the Smash bracket. One shot, one hit.",
+    "pass": "Riza's in the Pass bracket. She's not upset. She's reloading. Carefully."
+  },
+  "she-venom": {
+    "intro": "Next up: a woman wrapped in living black goo with a tongue that just won't quit. She's a lawyer by day, a symbiote by night, and she's got some serious teeth.",
+    "smash": "She-Venom slithers into the Smash bracket. We are... very interested.",
+    "pass": "She-Venom's in the Pass bracket. We are... disappointed."
+  },
+  "bardin-gorekkson": {
+    "intro": "This contestant is a dwarf ranger with a magnificent beard, a fierce temper, and an even fiercer thirst. He's grumpy, he's loyal, and if you don't pick him, your name is going in his book of grudges.",
+    "smash": "Bardin Goreksson stomps into the Smash bracket. He's adding a few names to the grudge list.",
+    "pass": "Bardin's in the Pass bracket. That's going in the book."
+  },
+  "liberty-bug": {
+    "intro": "Our next contestant is an enemy of democracy turned... surprisingly cute. She's got a few too many legs, a hard shell, and a comic all her own. Freedom has never looked this buggy.",
+    "smash": "Liberty Bug skitters into the Smash bracket. For Super Earth!",
+    "pass": "Liberty Bug is in the Pass bracket. Spread democracy, just not to her."
+  },
+  "lenore": {
+    "intro": "Next up: a refined vampire diplomat with flowing red hair and an excellent tea set. She's charming, she's persuasive, and she likes to keep her favorite people on a very short leash.",
+    "smash": "Lenore glides into the Smash bracket. Diplomacy wins again.",
+    "pass": "Lenore's in the Pass bracket. Negotiations have broken down."
+  },
+  "sally-tsung": {
+    "intro": "This contestant is a street mage from a cyberpunk future who carries a magic katana and a shotgun. She's tough, she's quick, and she's been looking this good since the eighties.",
+    "smash": "Sally Tsung casts herself straight into the Smash bracket. Old school, still deadly.",
+    "pass": "Sally Tsung's in the Pass bracket. Time to read the fine print on that spell."
+  },
+  "dahlia": {
+    "intro": "Our next contestant is a dancer, a fighter, and a dance-floor diva. She's got flowers in her hair, rhythm in her hips, and a beat you won't forget.",
+    "smash": "Dahlia dances into the Smash bracket. The groove is in her heart.",
+    "pass": "Dahlia's in the Pass bracket. Somebody stopped the music."
+  },
+  "integra-hellsing": {
+    "intro": "This contestant is a stern aristocrat in a sharp suit with a cigar and a butler who is far more than he seems. She's commanding, she's cold, and she keeps a very large, very loyal monster on call.",
+    "smash": "Sir Integra Hellsing strides into the Smash bracket. Search and destroy.",
+    "pass": "Integra Hellsing is in the Pass bracket. She would like to speak to the manager."
+  },
+  "the-gravemind": {
+    "intro": "Next up: an enormous, ancient intelligence made of countless bodies. He speaks only in poetry, lives in a swamp of tentacles, and wants to get to know you. All of you. Forever.",
+    "smash": "The Gravemind rises into the Smash bracket. He is a monument to all your sins, and apparently your type.",
+    "pass": "The Gravemind is in the Pass bracket. Turns out being a monument to all your sins isn't a selling point."
+  },
+  "rumi-usagiyama-mirko": {
+    "intro": "This contestant is a pro hero with bunny ears, rock-hard abs, and a kick that can level a building. She's loud, she's fearless, and she doesn't need a sidekick, because she's the whole team.",
+    "smash": "Mirko hops into the Smash bracket. Watch your head.",
+    "pass": "Mirko's in the Pass bracket. She's not crying. She's hopping mad."
+  },
+  "bismarck-azur-lane": {
+    "intro": "Our next contestant is a proud, iron-willed battleship with long blonde hair and impeccable military discipline. She's elegant, she's imposing, and she expects you to follow orders.",
+    "smash": "Bismarck sails into the Smash bracket. The whole fleet salutes her.",
+    "pass": "Bismarck is in the Pass bracket. Sink the Bismarck, as they say."
+  },
+  "four-arms": {
+    "intro": "This contestant is a towering red alien with four arms and four times the hugging capacity. He's strong, he's loud, and he's a former kid hero who is very much a grown man now.",
+    "smash": "Four Arms flexes into the Smash bracket. That's four arms' worth of muscle.",
+    "pass": "Four Arms is in the Pass bracket. Four arms, and nobody to hold with any of them."
+  },
+  "lusamine": {
+    "intro": "Next up: a glamorous foundation president with flowing blonde hair and very intense opinions about beauty. She loves her collection, she loves her work, and she'd love to add you to the freezer.",
+    "smash": "Lusamine twirls into the Smash bracket. Beautiful, and she knows it.",
+    "pass": "Lusamine's in the Pass bracket. That's going to ruin her mood, and probably someone's life."
+  },
+  "kronk": {
+    "intro": "This contestant is a big, sweet-hearted henchman who can talk to squirrels, cook a mean spinach puff, and carry a llama on his back. He's loyal, he's gentle, and both his shoulder angel and his shoulder devil agree: he's a catch.",
+    "smash": "Kronk lumbers into the Smash bracket. Oh yeah, it's all coming together.",
+    "pass": "Kronk's in the Pass bracket. Wrong lever!"
+  },
+  "fiona": {
+    "intro": "Our next contestant is a princess who knows kung fu, sings duets with birds, and has a little secret that comes out after sunset. She's sweet, she's tough, and her husband is a big green guy.",
+    "smash": "Fiona strides into the Smash bracket. Happily ever after starts now.",
+    "pass": "Fiona's in the Pass bracket. Not every fairy tale ends happily ever after."
+  },
+  "chell": {
+    "intro": "Next up: a silent woman in an orange jumpsuit with springy boots and a gun that shoots holes in walls. She doesn't talk much, but she's great under pressure, and someone promised her cake.",
+    "smash": "Chell portals straight into the Smash bracket. This was a triumph.",
+    "pass": "Chell's in the Pass bracket. The cake was a lie."
+  },
+  "trigger": {
+    "intro": "This contestant is a blindfolded sniper who never misses. She's got a calm voice, a very steady hand, and a real talent for long-range engagements.",
+    "smash": "Trigger takes aim at the Smash bracket. Target acquired.",
+    "pass": "Trigger's in the Pass bracket. Even a perfect shot misses sometimes."
+  },
+  "zhu-yuan": {
+    "intro": "Next up: a police captain with a strict sense of justice, a very big gun, and a uniform that hugs every curve. She'll read you your rights, and you'll want her to.",
+    "smash": "Zhu Yuan enters the Smash bracket. Hands where she can see them.",
+    "pass": "Zhu Yuan is in the Pass bracket. Case closed."
+  },
+  "maomao": {
+    "intro": "Our next contestant is a palace apothecary with a sharp tongue, a sharper mind, and a hobby of taste-testing poisons on purpose. She solves mysteries, ignores her admirers, and will absolutely judge whatever's in your cup. Romance is not her thing. Toxicology is.",
+    "smash": "Maomao slips into the Smash bracket. She'd rather be testing poisons, but she'll accept the win.",
+    "pass": "Maomao is in the Pass bracket. Honestly, she seems relieved. Now she can get back to the herb garden."
+  },
+  "agnes-tachyon": {
+    "intro": "This contestant is a mad scientist in an oversized lab coat with a dangerous obsession: the absolute limit of speed. She will make you a drink, it will glow, and you will absolutely regret drinking it. Volunteer test subjects wanted.",
+    "smash": "Agnes Tachyon blazes into the Smash bracket. Hypothesis confirmed: she's simply built different.",
+    "pass": "Agnes Tachyon is in the Pass bracket. A failed experiment, but every failure is just more data."
+  },
+  "biddy-blas": {
+    "intro": "Next up: a little crocodile-faced pilot with a big underbite and an even bigger temper. He's been a sports star, a model, and a jazz musician, and he failed at all of them. Now he flies fast, yells louder, and just wants to make his mother proud.",
+    "smash": "Biddy Blas roars into the Smash bracket. Write the name down. Tattoo it on your arm. Someday your arm will be worth millions.",
+    "pass": "Biddy Blas is in the Pass bracket. He's furious. He's yelling in Huttese. Somebody call his mother."
+  }
+}

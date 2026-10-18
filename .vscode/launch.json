@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Control panel",
+      "type": "msedge",
+      "request": "launch",
+      "url": "http://localhost:5173/smash-or-pass/",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "vite: dev"
+    },
+    {
+      "name": "Display view",
+      "type": "msedge",
+      "request": "launch",
+      "url": "http://localhost:5173/smash-or-pass/?view=display",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "vite: dev"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Control panel + Display",
+      "configurations": ["Control panel", "Display view"],
+      "stopAll": true
+    }
+  ]
+}

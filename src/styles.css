@@ -1,0 +1,568 @@
+:root {
+  --bg: #14121b;
+  --panel: #1e1b29;
+  --line: #35304a;
+  --text: #f2eefc;
+  --muted: #a39cc0;
+  --accent: #b78cff;
+  --smash: #ff5c8a;
+  --pass: #5cb8ff;
+  --good: #4fd18b;
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* ---------- Control panel ---------- */
+.control {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.control header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.control h2,
+.control h3 {
+  margin: 0;
+}
+
+.control h3 {
+  font-size: 1rem;
+  color: var(--accent);
+}
+
+.panel-section {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.row {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+input,
+select,
+button,
+.file-button {
+  font: inherit;
+  color: var(--text);
+  background: #2a2640;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 7px 10px;
+}
+
+input[type='text'],
+input:not([type]),
+input[type='file'] {
+  width: 100%;
+}
+
+.row input:not([type='checkbox']) {
+  flex: 1;
+  min-width: 0;
+}
+
+button,
+.file-button {
+  cursor: pointer;
+}
+
+button:hover:not(:disabled),
+.file-button:hover {
+  border-color: var(--accent);
+}
+
+button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+button.primary {
+  background: var(--accent);
+  color: #1a1030;
+  font-weight: 600;
+}
+
+button.smash {
+  background: var(--smash);
+  color: #2b0614;
+  font-weight: 700;
+  flex: 1;
+  padding: 14px;
+}
+
+button.pass {
+  background: var(--pass);
+  color: #04202f;
+  font-weight: 700;
+  flex: 1;
+  padding: 14px;
+}
+
+button.big {
+  flex: 1;
+  padding: 16px 10px;
+  font-weight: 600;
+}
+
+button.danger {
+  border-color: #7a2f45;
+  color: #ff9db5;
+}
+
+button.small {
+  padding: 3px 8px;
+  font-size: 0.85rem;
+}
+
+a {
+  color: var(--accent);
+}
+
+.hint {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.error {
+  color: #ff9db5;
+  font-size: 0.9rem;
+}
+
+.badge {
+  background: #2f2a4a;
+  border-radius: 999px;
+  padding: 2px 10px;
+  font-size: 0.8rem;
+  color: var(--accent);
+}
+
+.check {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  font-size: 0.9rem;
+}
+
+.roster-list {
+  max-height: 260px;
+  overflow-y: auto;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.roster-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 8px;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.9rem;
+}
+
+.roster-item:last-child {
+  border-bottom: none;
+}
+
+.current-card {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.current-name {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+/* Read-aloud script cards */
+.script {
+  border-left: 3px solid var(--accent);
+  background: rgba(183, 140, 255, 0.08);
+  border-radius: 6px;
+  padding: 8px 12px;
+}
+
+.script-label {
+  color: var(--accent);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.script p {
+  margin: 4px 0 0;
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+
+button.on {
+  background: var(--good);
+  color: #062b17;
+  border-color: var(--good);
+}
+
+.redeem-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 8px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.redeem-row.active {
+  border-color: var(--accent);
+}
+
+.redeem-detail {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.file-button {
+  display: inline-block;
+}
+
+details summary {
+  cursor: pointer;
+  color: var(--muted);
+}
+
+/* ---------- Portraits (shared) ---------- */
+.portrait {
+  position: relative;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #241f36;
+  border: 2px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Frames have a fixed height; the width follows each image's shape, up to --portrait-max-w. */
+.portrait.large {
+  --portrait-h: min(45vw, 52vh);
+  --portrait-max-w: 40vw;
+}
+
+.portrait.small {
+  --portrait-h: 96px;
+  --portrait-max-w: 160px;
+  border-radius: 8px;
+}
+
+/* The whole image is always visible. Only images wider than the max width get the blurred fill above and below. */
+.portrait img.fit {
+  position: relative;
+  display: block;
+  height: calc(var(--portrait-h) - 4px);
+  width: auto;
+  max-width: calc(var(--portrait-max-w) - 4px);
+  object-fit: contain;
+}
+
+.portrait img.backdrop {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: blur(18px) brightness(0.5);
+  transform: scale(1.15);
+}
+
+.portrait .placeholder {
+  width: calc(var(--portrait-h) * 0.75);
+  height: calc(var(--portrait-h) - 4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  color: var(--accent);
+  opacity: 0.8;
+}
+
+.portrait.small .placeholder {
+  font-size: 1.4rem;
+}
+
+/* ---------- OBS display (transparent background) ---------- */
+body:has(.display) {
+  background: transparent;
+}
+
+.display {
+  min-height: 100vh;
+  color: #fff;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
+  overflow: hidden;
+}
+
+.display .portrait {
+  border-color: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+}
+
+.stage {
+  min-height: 100vh;
+  padding: 3vh 3vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2vh;
+}
+
+.phase-title {
+  font-size: 3.2vh;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  opacity: 0.9;
+}
+
+.tally {
+  align-self: stretch;
+  display: flex;
+  gap: 2vw;
+  font-size: 2.6vh;
+  font-weight: 600;
+}
+
+.tally-smash {
+  color: var(--smash);
+}
+
+.tally-pass {
+  color: var(--pass);
+}
+
+.tally-count {
+  margin-right: auto;
+}
+
+.center-message {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2vh;
+  text-align: center;
+}
+
+.center-message h1 {
+  font-size: 7vh;
+  margin: 0;
+}
+
+.center-message p {
+  font-size: 3vh;
+  margin: 0;
+}
+
+.rate-layout {
+  flex: 1;
+  display: flex;
+  gap: 4vw;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.card-block,
+.versus-side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5vh;
+}
+
+.name-plate {
+  text-align: center;
+}
+
+.name-plate .name {
+  font-size: 4.4vh;
+  font-weight: 800;
+}
+
+.name-plate .source {
+  font-size: 2.6vh;
+  opacity: 0.85;
+}
+
+.challenger-tag {
+  margin-top: 0.8vh;
+  display: inline-block;
+  background: var(--accent);
+  color: #1a1030;
+  text-shadow: none;
+  border-radius: 999px;
+  padding: 0.4vh 1.4vh;
+  font-size: 2vh;
+  font-weight: 700;
+}
+
+.versus-layout {
+  flex: 1;
+  width: 100%;
+  display: flex;
+  gap: 3vw;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.vs {
+  font-size: 8vh;
+  font-weight: 900;
+  color: var(--accent);
+}
+
+.versus-side.winner .portrait {
+  border-color: var(--good);
+}
+
+.versus-side.loser {
+  opacity: 0.5;
+}
+
+.crown {
+  font-size: 3.4vh;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #ffd86b;
+  font-weight: 800;
+}
+
+.redeem-card {
+  max-width: 28vw;
+  min-width: 18vw;
+  background: rgba(20, 18, 27, 0.88);
+  border: 2px solid var(--accent);
+  border-radius: 16px;
+  padding: 2vh 1.6vw;
+  text-shadow: none;
+}
+
+.redeem-card.lore {
+  border-color: #ffd86b;
+}
+
+.redeem-card.lawyer {
+  border-color: var(--pass);
+}
+
+.redeem-title {
+  font-size: 3vh;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.redeem-by {
+  font-size: 2vh;
+  opacity: 0.75;
+  margin-bottom: 1vh;
+}
+
+.redeem-text {
+  font-size: 3vh;
+  margin: 0 0 1vh;
+}
+
+.lore-prompt {
+  font-size: 2.6vh;
+  font-weight: 700;
+  color: #ffd86b;
+}
+
+.countdown {
+  font-size: 9vh;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.mini-bracket {
+  display: flex;
+  gap: 1.2vw;
+  align-items: flex-start;
+  align-self: stretch;
+  justify-content: center;
+  font-size: 1.5vh;
+  max-height: 28vh;
+  overflow: hidden;
+}
+
+.mini-round {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6vh;
+  max-height: 28vh;
+  overflow: hidden;
+}
+
+.mini-round-label {
+  font-weight: 700;
+  opacity: 0.8;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.mini-match {
+  background: rgba(20, 18, 27, 0.75);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 6px;
+  padding: 0.3vh 0.6vw;
+  text-shadow: none;
+  min-width: 9vw;
+}
+
+.mini-match.active {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent);
+}
+
+.mini-match .won {
+  font-weight: 800;
+  color: var(--good);
+}
+
+.mini-match .lost {
+  opacity: 0.45;
+  text-decoration: line-through;
+}

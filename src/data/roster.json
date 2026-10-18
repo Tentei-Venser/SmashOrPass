@@ -1,0 +1,441 @@
+[
+  {
+    "id": "byleth-female",
+    "name": "Byleth (Female)",
+    "source": "Fire Emblem: Three Houses",
+    "image": "characters/byleth-female.png",
+    "image-credit": "https://fireemblem.fandom.com/wiki/File:Artwork_Byleth_F.png"
+  },
+  {
+    "id": "kara-zor-el-supergirl",
+    "name": "Kara Zor-El/ Super Girl",
+    "source": "DC Comics, My Adventures with Super Man",
+    "image": "characters/kara-zor-el-supergirl.png",
+    "image-credit": "dcuguide.com"
+  },
+  {
+    "id": "lt-commander-data",
+    "name": "Lt. Commander Data",
+    "source": "Star Trek: The Next Generation",
+    "image": "characters/lt-commander-data.jpg"
+  },
+  {
+    "id": "toriko",
+    "name": "Coco, Zebra, Sunny, and/or Toriko",
+    "source": "Toriko",
+    "image": "characters/toriko.jpg",
+    "image-credit": "https://toriko.fandom.com/wiki/File:Heavenly_Kings_timeskip_VIZ.png"
+  },
+  {
+    "id": "spy",
+    "name": "Spy",
+    "source": "Team Fortress 2",
+    "image": "characters/spy.png",
+    "image-credit": "https://wiki.teamfortress.com/wiki/File:Spy.png"
+  },
+  {
+    "id": "lucy",
+    "name": "Lucy",
+    "source": "Cyberpunk: Edgerunners",
+    "image": "characters/Lucy.png",
+    "image-credit": "https://www.instagram.com/tholiabentz/"
+  },
+  {
+    "id": "the-emperor-of-mankind",
+    "name": "The Emperor of Mankind",
+    "source": "Warhammer 40,000",
+    "image": "characters/the-emperor-of-mankind.jpg",
+    "image-credit": "https://warhammer40k.fandom.com/wiki/File:GuisesoftheEmperor.jpg"
+  },
+  {
+    "id": "vex",
+    "name": "Vex",
+    "source": "Borderlands 4",
+    "image": "characters/vex.png",
+    "image-credit": "https://borderlands.fandom.com/wiki/File:Borderlands_4_Vex.png"
+  },
+  {
+    "id": "tengen-uzui",
+    "name": "Tengen Uzui",
+    "source": "Demon Slayer",
+    "image": "characters/tengen-uzui.png",
+    "image-credit": "https://kimetsu-no-yaiba.fandom.com/wiki/File:Tengen_anime.png"
+  },
+  {
+    "id": "astrid-httyd-3",
+    "name": "Astrid",
+    "source": "How to Train Your Dragon 3",
+    "image": "characters/astrid-httyd-3.png",
+    "image-credit": "https://www.dreamworks.com/how-to-train-your-dragon/explore/astrid"
+  },
+  {
+    "id": "harley-quinn",
+    "name": "Harley Quinn",
+    "source": "DC Comics",
+    "image": "characters/harley-quinn.jpg",
+    "image-credit": "https://dc.fandom.com/wiki/Harley_Quinn_Vol_4_43"
+  },
+  {
+    "id": "revolte",
+    "name": "Revolte",
+    "source": "Frieren: Beyond Journey's End",
+    "image": "characters/revolte.jpg",
+    "image-credit": "https://www.instagram.com/albertinoflorenziano_arts/"
+  },
+  {
+    "id": "jessica-rabbit",
+    "name": "Jessica Rabbit",
+    "source": "Who Framed Roger Rabbit",
+    "image": "characters/jessica-rabbit.jpg",
+    "image-credit": "https://disney.fandom.com/wiki/File:Jessica-Rabbit_Posing.jpg"
+  },
+  {
+    "id": "cortana",
+    "name": "Cortana",
+    "source": "Halo",
+    "image": "characters/cortana.jpg",
+    "image-credit": "https://www.reddit.com/user/Sharp-Resident-5173/"
+  },
+  {
+    "id": "jill-stingray",
+    "name": "Jill Stingray",
+    "source": "VA-11 Hall-A",
+    "image": "characters/jill-stingray.png",
+    "image-credit": "https://va11halla.fandom.com/wiki/File:Jill_F.png"
+  },
+  {
+    "id": "korsica",
+    "name": "Korsica",
+    "source": "Hi-Fi Rush",
+    "image": "characters/korsica.jpg",
+    "image-credit": "https://kazuyamatsumura.artstation.com/projects/VJ3DZX"
+  },
+  {
+    "id": "ganondorf",
+    "name": "Ganondorf",
+    "source": "The Legend of Zelda",
+    "image": "characters/ganondorf.png",
+    "image-credit": "https://zelda.fandom.com/wiki/File:HW_Ganondorf_Render.png"
+  },
+  {
+    "id": "samus-aran",
+    "name": "Samus Aran",
+    "source": "Metroid",
+    "image": "characters/samus-aran.jpg",
+    "image-credit": "https://metroid.fandom.com/wiki/File:Mprime_07_big.jpg"
+  },
+  {
+    "id": "ghazghkull-mag-uruk-thraka",
+    "name": "Ghazghkull Mag Uruk Thraka",
+    "source": "Warhammer 40,000",
+    "image": "characters/ghazghkull-mag-uruk-thraka.jpg",
+    "image-credit": "https://www.deviantart.com/israllona/art/Ghazghkull-Thraka-986696433"
+  },
+  {
+    "id": "johnny-silverhand",
+    "name": "Johnny Silverhand",
+    "source": "Cyberpunk 2077",
+    "image": "characters/johnny-silverhand.png",
+    "image-credit": "https://cyberpunk.fandom.com/wiki/File:Johnny_Silverhand_Database_CP2077.png"
+  },
+  {
+    "id": "adam-smasher",
+    "name": "Adam Smasher",
+    "source": "Cyberpunk 2077",
+    "image": "characters/adam-smasher.jpg",
+    "image-credit": "https://cyberpunk.fandom.com/wiki/File:Adam_Smasher_full_body_render.jpg"
+  },
+  {
+    "id": "imperial-captain-skyrim-intro",
+    "name": "Imperial Captain from the Skyrim Intro",
+    "source": "The Elder Scrolls V: Skyrim",
+    "image": "characters/imperial-captain-skyrim-intro.jpg",
+    "image-credit": "https://elderscrolls.fandom.com/wiki/File:Unamed_Imperial_Captain.png"
+  },
+  {
+    "id": "perfect-cell",
+    "name": "Perfect Cell",
+    "source": "Dragon Ball Z",
+    "image": "characters/perfect-cell.jpg",
+    "image-credit": "https://dragonball.fandom.com/wiki/File:Cell_Dragon_Ball_Z_Episode_161.png"
+  },
+  {
+    "id": "ferdinand-von-aegir-post-timeskip",
+    "name": "Ferdinand Von Aegir (Post-Timeskip)",
+    "source": "Fire Emblem Three Houses",
+    "image": "characters/ferdinand-von-aegir-post-timeskip.png",
+    "image-credit": "https://www.reddit.com/user/ryou99/"
+  },
+  {
+    "id": "waluigi",
+    "name": "Waluigi",
+    "source": "Super Mario Bros.",
+    "image": "characters/waluigi.png",
+    "image-credit": "https://mario.fandom.com/wiki/File:SuperMarioParty_Waluigi.png"
+  },
+  {
+    "id": "skeletor",
+    "name": "Skeletor",
+    "source": "He-Man",
+    "image": "characters/skeletor.jpg",
+    "image-credit": "https://4kwallpapers.com/images/walls/thumbs_3t/25239.jpg"
+  },
+  {
+    "id": "scythe-helldivers",
+    "name": "Scythe",
+    "source": "Helldivers",
+    "image": "characters/scythe-helldivers.jpg"
+  },
+  {
+    "id": "capra-demon",
+    "name": "Capra Demon",
+    "source": "Dark Souls",
+    "image": "characters/capra-demon.jpg",
+    "image-credit": "https://www.instagram.com/menaslg/"
+  },
+  {
+    "id": "new-jersey",
+    "name": "New Jersey",
+    "source": "Azur Lane",
+    "image": "characters/new-jersey.png",
+    "image-credit": "https://azurlane.koumakan.jp/wiki/File:New_JerseyWithoutRig.png"
+  },
+  {
+    "id": "jane-shepard",
+    "name": "Jane Shepard",
+    "source": "Mass Effect",
+    "image": "characters/jane-shepard.png",
+    "image-credit": "https://crossover-of-unions.fandom.com/wiki/Jane_Shepard"
+  },
+  {
+    "id": "lady-shady",
+    "name": "Lady Shady",
+    "source": "Lady Shadys Twitch",
+    "image": "characters/lady-shady.png",
+    "image-credit": "https://www.twitch.tv/lady__shady"
+  },
+  {
+    "id": "ghislaine-dedoldia",
+    "name": "Ghislaine Dedoldia",
+    "source": "Mushoku Tensei",
+    "image": "characters/ghislaine-dedoldia.png",
+    "image-credit": "https://mushokutensei.fandom.com/wiki/File:Ghislaine_Dedoldia_anime.png"
+  },
+  {
+    "id": "elizabeth",
+    "name": "Elizabeth",
+    "source": "BioShock Infinite",
+    "image": "characters/elizabeth.jpg",
+    "image-credit": "https://bioshock.fandom.com/wiki/File:Elizabeth1.jpg"
+  },
+  {
+    "id": "yoko-littner-timeskip",
+    "name": "Yoko Littner (timeskip)",
+    "source": "Tengen Toppa Gurren Lagann",
+    "image": "characters/yoko-littner-timeskip.png",
+    "image-credit": "https://www.deviantart.com/phluxxor/art/Yoko-Littner---Stars-400494732"
+  },
+  {
+    "id": "joel",
+    "name": "Joel",
+    "source": "The Last of Us",
+    "image": "characters/joel.png",
+    "image-credit": "https://thelastofus.fandom.com/wiki/File:Joel.png"
+  },
+  {
+    "id": "golden-saint",
+    "name": "Golden Saint",
+    "source": "The Elder Scrolls IV: Oblivion",
+    "image": "characters/golden-saint.jpg",
+    "image-credit": "https://elderscrolls.fandom.com/wiki/File:Alternate_Golden_Saint_card_art.png"
+  },
+  {
+    "id": "piedmon",
+    "name": "Piedmon",
+    "source": "Digimon",
+    "image": "characters/piedmon.png",
+    "image-credit": "https://wikimon.net/File:Piemon_Linkz.png"
+  },
+  {
+    "id": "angewomon",
+    "name": "Angewomon",
+    "source": "Digimon",
+    "image": "characters/angewomon.jpg",
+    "image-credit": "https://wikimon.net/File:Angewomon_new_century_censored.jpg"
+  },
+  {
+    "id": "dracula-animated-series",
+    "name": "Dracula",
+    "source": "Castelvania (Netflix Animated Series)",
+    "image": "characters/dracula-animated-series.jpg",
+    "image-credit": "https://castlevania.fandom.com/wiki/File:Dracula_Illustration_1.jpg"
+  },
+  {
+    "id": "nicholas-st-north",
+    "name": "Nicholas St. North",
+    "source": "Rise of the Guardians",
+    "image": "characters/nicholas-st-north.jpg",
+    "image-credit": "https://riseoftheguardians.fandom.com/wiki/File:North.jpg"
+  },
+  {
+    "id": "fafnir-100-ton-assault-mech",
+    "name": "Fafnir (100-ton Assault Mech)",
+    "source": "BattleTech / MechWarrior",
+    "image": "characters/fafnir-100-ton-assault-mech.png",
+    "image-credit": "https://www.sarna.net/wiki/File:MWO_Fafnir.png"
+  },
+  {
+    "id": "falin-touden",
+    "name": "Falin Touden",
+    "source": "Dungeon Meshi (Delicious in Dungeon)",
+    "image": "characters/falin-touden.png",
+    "image-credit": "https://delicious-in-dungeon.fandom.com/wiki/File:Falin_Touden_Full_Body_(Anime)-.png"
+  },
+  {
+    "id": "riza-hawkeye",
+    "name": "Riza Hawkeye",
+    "source": "Fullmetal Alchemist Brotherhood",
+    "image": "characters/riza-hawkeye.jpg",
+    "image-credit": "https://fma.fandom.com/wiki/File:Dvd8.png"
+  },
+  {
+    "id": "she-venom",
+    "name": "She Venom",
+    "source": "Venom",
+    "image": "characters/she-venom.jpg",
+    "image-credit": "https://marvel.fandom.com/wiki/File:Death_of_the_Venomverse_Vol_1_2_Chew_Virgin_Variant.jpg"
+  },
+  {
+    "id": "bardin-gorekkson",
+    "name": "Bardin Gorekkson",
+    "source": "Warhammer: Vermintide 2",
+    "image": "characters/bardin-gorekkson.jpg",
+    "image-credit": "https://www.thegamer.com/warhammer-vermintide-2-engineer-build/"
+  },
+  {
+    "id": "liberty-bug",
+    "name": "Liberty Bug",
+    "source": "Helldivers 2 Liberty Bug Comic",
+    "image": "characters/Liberty-Bug.jpg",
+    "image-credit": "https://www.instagram.com/arzy_parzy/"
+  },
+  {
+    "id": "lenore",
+    "name": "Lenore",
+    "source": "Castlevania (Netflix Animated Series)",
+    "image": "characters/lenore.jpg",
+    "image-credit": "https://castlevania.fandom.com/wiki/File:Lenore_s3_promo.jpg"
+  },
+  {
+    "id": "sally-tsung",
+    "name": "Sally Tsung",
+    "source": "Shadowrun 1e Cover Art",
+    "image": "characters/sally-tsung.jpg",
+    "image-credit": "https://shadowrun.fandom.com/wiki/File:Sally_Tsung_Mage.png"
+  },
+  {
+    "id": "dahlia",
+    "name": "Dahlia",
+    "source": "Dead as Disco",
+    "image": "characters/dahlia.png",
+    "image-credit": "https://clan.fastly.steamstatic.com/images//45594537/aac90d7db1db10dd23414212ef8b0fa887ca72a9.png"
+  },
+  {
+    "id": "maomao",
+    "name": "Maomao",
+    "source": "The Apothecary Diaries",
+    "image": "characters/maomao.png",
+    "image-credit": "https://www.deviantart.com/hibikissy/art/The-Apothecary-Diaries-Maomao-Render-PNG-1314869872"
+  },
+  {
+    "id": "biddy-blas",
+    "name": "Biddy Blas",
+    "source": "Star Wars: Galactic Racer",
+    "image": "characters/biddy-blas.jpg",
+    "image-credit": "https://www.belloflostsouls.net/2026/10/dd-five-ways-biddy-blas-star-wars-best-new-character-shows-how-to-make-memorable-npcs.html"
+  },
+  {
+    "id": "integra-hellsing",
+    "name": "Integra Hellsing",
+    "source": "Hellsing",
+    "image": "characters/integra-hellsing.png",
+    "image-credit": "https://hero.fandom.com/wiki/Integra_Hellsing"
+  },
+  {
+    "id": "the-gravemind",
+    "name": "The Gravemind",
+    "source": "Halo",
+    "image": "characters/the-gravemind.jpg",
+    "image-credit": "https://leonidenin.artstation.com/projects/ZGnkN"
+  },
+  {
+    "id": "rumi-usagiyama-mirko",
+    "name": "Rumi Usagiyama / Mirko",
+    "source": "My Hero Academia",
+    "image": "characters/rumi-usagiyama-mirko.jpg",
+    "image-credit": "https://www.mycast.io/talent/rumi-usagiyama-mirko"
+  },
+  {
+    "id": "bismarck-azur-lane",
+    "name": "Bismarck",
+    "source": "Azur Lane",
+    "image": "characters/bismarck-azure-lane.jpg",
+    "image-credit": "https://www.artstation.com/okku12"
+  },
+  {
+    "id": "four-arms",
+    "name": "Four Arms",
+    "source": "Ben 10",
+    "image": "characters/four-arms.png",
+    "image-credit": "https://ben-10-list.fandom.com/wiki/Four_Arms_(Ben_10,000_Timeline)"
+  },
+  {
+    "id": "lusamine",
+    "name": "Lusamine",
+    "source": "Pokémon",
+    "image": "characters/lusamine.jpg",
+    "image-credit": "https://www.instagram.com/tru_jek/"
+  },
+  {
+    "id": "kronk",
+    "name": "Kronk",
+    "source": "The Emperor's New Groove",
+    "image": "characters/kronk.jpg",
+    "image-credit": "https://ca.pinterest.com/pin/718324209350521697/"
+  },
+  {
+    "id": "fiona",
+    "name": "Fiona",
+    "source": "Shrek",
+    "image": "characters/fiona.png",
+    "image-credit": "https://en.wikipedia.org/wiki/Princess_Fiona"
+  },
+  {
+    "id": "chell",
+    "name": "Chell",
+    "source": "Portal",
+    "image": "characters/chell.png",
+    "image-credit": "https://www.deviantart.com/firxenrambles/art/Chell-Render-1179216841"
+  },
+  {
+    "id": "trigger",
+    "name": "Trigger",
+    "source": "Zenless Zone Zero",
+    "image": "characters/trigger.png",
+    "image-credit": "https://zenless-zone-zero.fandom.com/wiki/Trigger"
+  },
+  {
+    "id": "zhu-yuan",
+    "name": "Zhu Yuan",
+    "source": "Zenless Zone Zero",
+    "image": "characters/zhu-yuan.png",
+    "image-credit": "https://zenless-zone-zero.fandom.com/wiki/Zhu_Yuan"
+  },
+  {
+    "id":"agnes-tachyon",
+    "name": "Agnes Tachyon",
+    "source": "Umamusume Pretty Derby",
+    "image": "characters/agnes-tachyon.png",
+    "image-credit": "https://umamusu.wiki/Agnes_Tachyon"
+  }
+]
